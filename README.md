@@ -1,4 +1,4 @@
-# Lead Details App
+# Accordion Project Details
 
 A React-based lead details viewer application featuring component decomposition, responsive light-themed UI, CSS Modules, and accordion-style email history.
 
