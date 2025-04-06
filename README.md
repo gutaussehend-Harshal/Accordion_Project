@@ -33,8 +33,6 @@ npm install
 npm start
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000)
-
 ## Demo Data
 
 Static mock data is located in `src/data/leadData.js`
