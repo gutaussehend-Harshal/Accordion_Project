@@ -14,21 +14,16 @@ A React-based lead details viewer application featuring component decomposition,
 ## Folder Structure
 
 ```
-lead-details-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── LeadDetails.js
-│   │   ├── LeadInfoCard.js
-│   │   ├── NurturingHistory.js
-│   │   └── EmailAccordion.js
-│   ├── data/
-│   │   └── leadData.js
-│   ├── styles/
-│   │   └── LeadDetails.module.css
-│   └── App.js
-├── README.md
-└── package.json
+LeadDetailsPage/
+├── LeadDetailsPage.jsx
+├── LeadDetailsPage.module.css
+└── components/
+    ├── LeadSummary.jsx
+    ├── LeadSummary.module.css
+    ├── NurturingHistory.jsx
+    ├── NurturingHistory.module.css
+    ├── EmailAccordion.jsx
+    └── EmailAccordion.module.css
 ```
 
 ## How to Run
