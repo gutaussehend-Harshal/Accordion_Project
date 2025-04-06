@@ -1,0 +1,12 @@
+.historyContainer {
+  margin-bottom: 2rem;
+}
+
+.timeline {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.timeline li {
+  margin-bottom: 1rem;
+}

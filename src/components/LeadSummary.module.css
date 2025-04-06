@@ -1,0 +1,20 @@
+.summaryContainer {
+  margin-bottom: 2rem;
+}
+
+.leadInfo {
+  margin-bottom: 1rem;
+}
+
+.leadSections {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.leadCard {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  flex: 1;
+}
